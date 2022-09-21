@@ -75,7 +75,7 @@
                             }
                         },
                         data:[
-                            {name: '北京',value: this.randomData() },
+                            {name: '南京',value: this.randomData() },
                             {name: '天津',value: this.randomData() },
                             {name: '上海',value: this.randomData() },
                             {name: '重庆',value: this.randomData() },
